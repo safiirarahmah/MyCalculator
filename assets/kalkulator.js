@@ -1,0 +1,1 @@
+console.log("Congratulation, Anda sudah berhasil membuat file javascript");
